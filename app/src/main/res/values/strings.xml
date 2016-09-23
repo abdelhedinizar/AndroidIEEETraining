@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidIEEETraining</string>
+    <string name="databasename">dataBase</string>
+    <string name="databasetablename">TODOTable</string>
+</resources>
